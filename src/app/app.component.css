@@ -1,0 +1,18 @@
+.even { background-color: rgb(233, 180, 180); color: black}
+.odd { background-color: rgb(123, 112, 223); color: bisque}
+
+.table{
+    border:2px solid black;
+}
+
+thead.table-head
+{
+    border-bottom: 2px solid rgb(228, 17, 17);
+}
+
+
+.color-change :hover
+{
+    background-color: grey;
+    color: white;
+}
